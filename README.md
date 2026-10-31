@@ -6,3 +6,6 @@ Device diagnostics and inspection project - Initial Version.
 - Wael (Team Lead) - (@wael0zxa)
 - Abdulrahman -(@sshawa)
 - Nedim - (@nedim512)
+
+
+- Status: Local environment ready 
